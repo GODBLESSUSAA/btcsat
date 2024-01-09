@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Baloo Da';
+  src: url("BalooDa-Regular.ttf");
+}
+/* @font-face {
+  font-family: 'Yuanti SC';
+  src: url('../fonts/Yuanti-SC.ttf');
+} */
+@font-face {
+  font-family: 'Roboto-Black';
+  src: url("");
+}
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url("Roboto-Bold.ttf");
+}
+@font-face {
+  font-family: 'Roboto-Medium';
+  src: url("Roboto-Medium.ttf");
+}
+@font-face {
+  font-family: 'Roboto-Regular';
+  src: url("Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url("");
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  src: url("");
+}
